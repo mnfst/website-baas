@@ -1,7 +1,7 @@
 {
-  "name": "manifest-website",
+  "name": "manifest-website-baas",
   "version": "0.0.1",
-  "description": "Manifest website",
+  "description": "Manifest Backend-as-a-service website",
   "scripts": {
     "dev": "turbo run dev",
     "build": "turbo run build"
@@ -12,9 +12,9 @@
   },
   "author": "Manifest",
   "bugs": {
-    "url": "https://github.com/mnfst/website/issues"
+    "url": "https://github.com/mnfst/website-baas/issues"
   },
-  "homepage": "https://github.com/mnfst/website#readme",
+  "homepage": "https://github.com/mnfst/website-baas#readme",
   "dependencies": {
     "turbo": "^2.4.4"
   },

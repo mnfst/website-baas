@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://manifest.build',
+  url: 'https://backend.manifest.build',
 
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
@@ -41,7 +41,7 @@ const config: Config = {
 
           // Remove this to remove the "edit this page" links.
           editUrl: ({ versionDocsDirPath, docPath }) => {
-            const baseUrl = 'https://github.com/mnfst/docs/blob/master/'
+            const baseUrl = 'https://github.com/mnfst/docs-baas/blob/master/'
 
             const newDocPath = docPath.replace(/^content\//, '')
             return baseUrl + newDocPath
@@ -60,11 +60,11 @@ const config: Config = {
     metadata: [
       {
         name: 'og:image',
-        content: 'https://manifest.build/assets/images/og-image.png'
+        content: 'https://backend.manifest.build/assets/images/og-image.png'
       },
       {
         name: 'twitter:image',
-        content: 'https://manifest.build/assets/images/og-image.png'
+        content: 'https://backend.manifest.build/assets/images/og-image.png'
       }
     ],
     announcementBar: {
@@ -88,7 +88,7 @@ const config: Config = {
           position: 'right'
         },
         {
-          href: 'https://github.com/mnfst/manifest',
+          href: 'https://github.com/mnfst/manifest-baas',
           label: 'GitHub',
           position: 'right'
         }
@@ -106,7 +106,7 @@ const config: Config = {
             },
             {
               label: 'Contributor Docs',
-              to: 'https://github.com/mnfst/manifest/blob/master/CONTRIBUTING.md'
+              to: 'https://github.com/mnfst/manifest-baas/blob/master/CONTRIBUTING.md'
             }
           ]
         },
@@ -119,7 +119,7 @@ const config: Config = {
             },
             {
               label: 'Discussion',
-              href: 'https://github.com/mnfst/manifest/discussions'
+              href: 'https://github.com/mnfst/manifest-baas/discussions'
             }
           ]
         },
@@ -128,11 +128,11 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/mnfst/manifest/'
+              href: 'https://github.com/mnfst/manifest-baas'
             },
             {
-              label: 'manifest.build',
-              href: 'https://manifest.build'
+              label: 'backend.manifest.build',
+              href: 'https://backend.manifest.build'
             }
           ]
         }

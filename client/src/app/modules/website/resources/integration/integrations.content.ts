@@ -12,15 +12,15 @@ export const integrations: Integration[] = [
     relatedResources: [
       {
         anchor: '🪣 S3 Storage documentation',
-        link: 'https://manifest.build/docs/s3-storage'
+        link: 'https://backend.manifest.build/docs/s3-storage'
       },
       {
         anchor: '📂 File and Image upload documentation',
-        link: 'https://manifest.build/docs/upload'
+        link: 'https://backend.manifest.build/docs/upload'
       },
       {
         anchor: '🚀 Deploy Manifest on production',
-        link: 'https://manifest.build/docs/deploy'
+        link: 'https://backend.manifest.build/docs/deploy'
       }
     ],
     excerpt: 'Store your files in S3 storage and access them from anywhere.',
