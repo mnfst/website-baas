@@ -1,6 +1,6 @@
-# Manifest Website
+# Manifest Website Backend-as-a-Service
 
-This repository contains the Manifest platform which will include the different web items of Manifest like the website and the logic part of the Doc (not the content).
+This repository contains the Manifest BaaS website and the logic part of the Doc (not the content). This website is available at https://backend.manifest.build and the docs at https://backend.manifest/build/docs
 
 ## Install
 
