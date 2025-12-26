@@ -1,5 +1,7 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "cd client && npm run build",
+  "outputDirectory": "client/dist/website/browser",
   "rewrites": [
     {
       "source": "/docs",
