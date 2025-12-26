@@ -50,7 +50,7 @@ In this tutorial, we will show you how to configure Amazon S3 as the storage pro
 <p>If you haven&#39;t installed Manifest yet, follow these steps:</p>
 <h3 id="1-install-manifest">1. Install Manifest</h3>
 <p>Execute the following command in your terminal from the root of your project:</p>
-<pre><code class="lang-bash">npx <span class="hljs-keyword">add</span><span class="bash">-manifest@latest</span>
+<pre><code class="lang-bash">npx <span class="hljs-keyword">add</span><span class="bash">-manifest@1</span>
 </code></pre>
 <p>This will generate a manifest.yml file and install the necessary dependencies.</p>
 <h3 id="2-run-manifest">2. Run Manifest</h3>
@@ -257,7 +257,7 @@ This guide does not ensure persistent data for the database and the storage.</p>
 <p>If you haven&#39;t installed Manifest yet, follow these steps:</p>
 <h3 id="1-install-manifest">1. Install Manifest</h3>
 <p>Run the following command in your terminal from the root of your project:</p>
-<pre><code class="lang-bash">npx <span class="hljs-keyword">add</span><span class="bash">-manifest@latest</span>
+<pre><code class="lang-bash">npx <span class="hljs-keyword">add</span><span class="bash">-manifest@1</span>
 </code></pre>
 <p>This will generate a manifest.yml file and install the necessary dependencies.</p>
 <h3 id="2-run-manifest">2. Run Manifest</h3>
@@ -347,7 +347,7 @@ This guide does not ensure persistent data for the database and the storage.</p>
 <p>If you haven&#39;t installed Manifest yet, follow these steps:</p>
 <h3 id="1-install-manifest">1. Install Manifest</h3>
 <p>From the root of your project, run the following command in your terminal:</p>
-<pre><code class="lang-bash">npx <span class="hljs-keyword">add</span><span class="bash">-manifest@latest</span>
+<pre><code class="lang-bash">npx <span class="hljs-keyword">add</span><span class="bash">-manifest@1</span>
 </code></pre>
 <p>This will generate a <code>manifest.yml</code> file and install all the necessary dependencies.</p>
 <h3 id="2-run-manifest">2. Run Manifest</h3>
@@ -469,7 +469,7 @@ This guide does not ensure persistent data for the database and the storage.</p>
 <p>If you haven&#39;t installed Manifest yet, follow these steps:</p>
 <h3 id="1-install-manifest">1. Install Manifest</h3>
 <p>Run the following command in your terminal from the root of your project:</p>
-<pre><code class="lang-bash">npx <span class="hljs-keyword">add</span><span class="bash">-manifest@latest</span>
+<pre><code class="lang-bash">npx <span class="hljs-keyword">add</span><span class="bash">-manifest@1</span>
 </code></pre>
 <p>This will generate a manifest.yml file and install the necessary dependencies.</p>
 <h3 id="2-run-manifest">2. Run Manifest</h3>
@@ -556,7 +556,7 @@ This guide does not ensure persistent data for the database and the storage.</p>
 <p>If you haven&#39;t installed Manifest yet, follow these steps:</p>
 <h3 id="1-install-manifest">1. Install Manifest</h3>
 <p>Run the following command in your terminal from the root of your project:</p>
-<pre><code class="lang-bash">npx <span class="hljs-keyword">add</span><span class="bash">-manifest@latest</span>
+<pre><code class="lang-bash">npx <span class="hljs-keyword">add</span><span class="bash">-manifest@1</span>
 </code></pre>
 <p>This will generate a manifest.yml file and install the necessary dependencies.</p>
 <h3 id="2-run-manifest">2. Run Manifest</h3>
@@ -650,7 +650,7 @@ This guide does not ensure persistent data for the database and the storage.</p>
 <p>If you haven&#39;t installed Manifest yet, follow these steps:</p>
 <h3 id="1-install-manifest">1. Install Manifest</h3>
 <p>Run the following command in your terminal from the root of your project:</p>
-<pre><code class="lang-bash">npx <span class="hljs-keyword">add</span><span class="bash">-manifest@latest</span>
+<pre><code class="lang-bash">npx <span class="hljs-keyword">add</span><span class="bash">-manifest@1</span>
 </code></pre>
 <p>This will generate a manifest.yml file and install the necessary dependencies.</p>
 <h3 id="2-run-manifest">2. Run Manifest</h3>

@@ -66,7 +66,7 @@ import { Component, Input } from '@angular/core'
 export class CopyButtonComponent {
   @Input() backendFilePath: string
 
-  command: string = 'npx create-manifest@latest'
+  command: string = 'npx create-manifest@1'
   copied = false
 
   copyToClipboard() {
