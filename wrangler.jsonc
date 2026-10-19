@@ -1,0 +1,13 @@
+{
+  "name": "website-baas",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./client/dist/website/browser",
+    // Angular app: unknown paths get index.html and the client router takes over,
+    // the same as on Vercel.
+    // Prerendered pages are dir/index.html; canonical URLs and router links have no
+    // trailing slash, so serve /faq directly and redirect /faq/ to it.
+    "html_handling": "drop-trailing-slash",
+    "not_found_handling": "single-page-application"
+  }
+}
