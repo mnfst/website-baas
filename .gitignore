@@ -4,3 +4,6 @@ node_modules
 # Docs (compiled)
 client/public/docs
 .wrangler/
+
+# Fetched from mnfst/docs-baas at build time
+docs/content
