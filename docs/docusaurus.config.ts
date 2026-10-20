@@ -192,12 +192,6 @@ const config: Config = {
       }
     ],
     [
-      '@docusaurus/plugin-vercel-analytics',
-      {
-        mode: 'auto'
-      }
-    ],
-    [
       'posthog-docusaurus',
       {
         apiKey: 'phc_mF1SRUhtr11263wyrsGfsRqqAmUH1RXQZqRbSp4WyIz',
